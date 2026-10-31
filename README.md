@@ -31,4 +31,4 @@ The image link in the prompt is provided for this prompt. You can replace it wit
 
 Layer Web is a library of ready-to-use prompts for building websites with AI. It is launching soon.
 
-Follow [@YOUR-INSTAGRAM-HANDLE] on Instagram for more free prompts.
+Follow [@layerweb.ai] on Instagram for more free prompts.
